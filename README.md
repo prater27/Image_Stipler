@@ -1,1 +1,1 @@
-# TSPBased_ImageDrawer
+# Image_Stippler
